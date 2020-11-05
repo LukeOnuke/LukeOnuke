@@ -1,12 +1,9 @@
 <!--
 **LukeOnuke/LukeOnuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Heyo, im LukeOnuke 👋
-I like to work with computers.
-
-### Technologies that im familiar with
-
-
+<!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
 <p>
     <img width="55%" align="right" alt="LukeOnuke's github stats" src="https://github-readme-stats.vercel.app/api?username=LukeOnuke&show_icons=true&theme=dracula" />
   </a>
@@ -23,4 +20,5 @@ I like to work with computers.
    <img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg">
    <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
    <br />
+
 </p>
