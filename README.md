@@ -4,6 +4,13 @@
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
+<h1>Lukeonuke</h1>
+<p>Hello there, im a indie developer eager for knowlage about computers.</p>
+
+<h3>My favourite repo</h3>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LukeOnuke&repo=AdminTools&show_owner=true" alt="AdminTools"></img>
+
+<h1>Technologies i know</h1>
 <div>
     <img width="55%" align="right" alt="LukeOnuke's github stats" src="https://github-readme-stats.vercel.app/api?username=LukeOnuke&show_icons=true&theme=dracula" />
 
