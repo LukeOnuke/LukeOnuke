@@ -4,9 +4,9 @@
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
-<p>
+<div>
     <img width="55%" align="right" alt="LukeOnuke's github stats" src="https://github-readme-stats.vercel.app/api?username=LukeOnuke&show_icons=true&theme=dracula" />
-  </a>
+
   
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
@@ -21,4 +21,4 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
    <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
    <br />
 
-</p>
+</div>
